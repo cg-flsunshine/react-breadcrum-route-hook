@@ -1,0 +1,11 @@
+{
+  "name": "react-breadcrum-route-hook",
+  "version": "1.0.0",
+  "description": "This can help you build a breadcrum to easily manage router.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
